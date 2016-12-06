@@ -1,0 +1,5 @@
+Commit - snapshot of changes since last commit
+workspace/working directory - folder you’re working in
+index/staging area - indicates what files have changes that need to be committed
+Local repository - record of  changes stored on your computer
+Remote repository - record of changes stored elsewhere
